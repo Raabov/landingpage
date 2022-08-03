@@ -1,22 +1,22 @@
 /* CSS for the header*/
 /* ---------------------------------------*/
-.header{
-    display: flex;  
+.header {
+    display: flex;
     padding: 16px;
     margin: 0px;
     justify-content: space-around;
     font-family: Roboto;
     align-items: center;
     background-color: #1F2937;
-    
+
 }
 
-.logo{
+.logo {
     font-size: 24px;
     color: #F9FAF8;
 }
 
-ul{
+ul {
     display: flex;
     list-style-type: none;
     margin: 0px;
@@ -24,7 +24,7 @@ ul{
     gap: 16px;
 }
 
-li{
+li {
     font-size: 18px;
     font-family: Roboto;
     color: #E5E7EB;
@@ -34,7 +34,7 @@ li{
 
 /* CSS for the hero section*/
 /* ---------------------------------------*/
-.hero{
+.hero {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -43,25 +43,25 @@ li{
     padding: 100px 16px;
 }
 
-.subhero{
+.subhero {
     width: 400px;
 }
 
-.herotext{
+.herotext {
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
-    margin-bottom: 16px;    
+    margin-bottom: 16px;
 }
 
-.subtext{
+.subtext {
     font-size: 18px;
     width: 400px;
     color: #E5E7EB;
     margin-bottom: 16px;
 }
 
-.button{
+.button {
     padding: 10px 20px;
     font-weight: bold;
     background: #3882F6;
@@ -70,7 +70,7 @@ li{
     border-radius: 16px;
 }
 
-img{
+img {
     border-radius: 16px;
 }
 
@@ -78,7 +78,7 @@ img{
 /* CSS for the info section*/
 /* ---------------------------------------*/
 
-.information{
+.information {
     padding-top: 80px;
     padding-bottom: 80px;
     text-align: center;
@@ -86,24 +86,24 @@ img{
     color: #1F2937;
 }
 
-.title{
+.title {
     text-align: center;
     font-size: 36px;
     font-weight: 900;
     margin-bottom: 48px;
 }
 
-.boximages{
+.boximages {
     display: flex;
     justify-content: center;
     gap: 52px;
 }
 
-.info{
+.info {
     max-width: 100px;
 }
 
-.text{
+.text {
     margin-top: 16px;
 }
 
@@ -111,21 +111,21 @@ img{
 /* CSS for the quote section*/
 /* ---------------------------------------*/
 
-.quote{
-    padding: 80px 500px;    
+.quote {
+    padding: 80px 500px;
     background-color: #E5E7EB;
     font-family: Roboto;
     color: #1F2937;
 }
 
-.blockquote{
+.blockquote {
     font-size: 36px;
-    text-align: left;  
+    text-align: left;
     font-style: italic;
     font-weight: lighter;
 }
 
-.author{
+.author {
     text-align: right;
     font-size: 18px;
     font-weight: bolder;
@@ -134,13 +134,14 @@ img{
 /* ---------------------------------------*/
 /* CSS for the call to action section*/
 /* ---------------------------------------*/
-.ctaBlock{
+.ctaBlock {
     margin-top: 100px;
     padding: 0px 300px;
     color: #F9FAF8;
     margin-bottom: 100px;
 }
-.callToAction{
+
+.callToAction {
     border-radius: 8px;
     background: #3882F6;
     display: flex;
@@ -149,16 +150,16 @@ img{
     align-items: center;
     padding: 48px;
     gap: 48px;
-      
+
 }
 
-.ctaInfo{
+.ctaInfo {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 4px;
 }
 
-.ctaButton{
+.ctaButton {
     padding: 10px 20px;
     border: 2px solid #F9FAF8;
     font-weight: bold;
@@ -169,9 +170,9 @@ img{
 /* CSS for footer section*/
 /* ---------------------------------------*/
 
-.footer{
-    
-    padding: 24px;    
+.footer {
+
+    padding: 24px;
     text-align: center;
     background-color: #1F2937;
     font-family: Roboto;
@@ -179,6 +180,6 @@ img{
 
 }
 
-body{
-margin: 0px;
+body {
+    margin: 0px;
 }
