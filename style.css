@@ -166,3 +166,15 @@ img{
 }
 
 /* ---------------------------------------*/
+/* CSS for footer section*/
+/* ---------------------------------------*/
+
+.footer{
+    
+    padding: 24px;    
+    text-align: center;
+    background-color: #1F2937;
+    font-family: Roboto;
+    color: #F9FAF8;
+
+}
