@@ -29,3 +29,49 @@ li{
     font-family: Roboto;
     color: #E5E7EB;
 }
+
+/* ---------------------------------------*/
+
+/* CSS for the hero section*/
+/* ---------------------------------------*/
+.hero{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1F2937;
+    font-family: Roboto;
+    padding: 100px 16px;
+}
+
+.subhero{
+    width: 400px;
+}
+
+.herotext{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    margin-bottom: 16px;    
+}
+
+.subtext{
+    font-size: 18px;
+    width: 400px;
+    color: #E5E7EB;
+    margin-bottom: 16px;
+}
+
+.button{
+    padding: 10px 20px;
+    font-weight: bold;
+    background: #3882F6;
+    max-width: 56px;
+    color: #E5E7EB;
+    border-radius: 16px;
+}
+
+img{
+    border-radius: 16px;
+}
+
+/* ---------------------------------------*/
