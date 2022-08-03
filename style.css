@@ -132,3 +132,37 @@ img{
 }
 
 /* ---------------------------------------*/
+/* CSS for the call to action section*/
+/* ---------------------------------------*/
+.ctaBlock{
+    margin-top: 100px;
+    padding: 0px 300px;
+    color: #F9FAF8;
+    margin-bottom: 100px;
+}
+.callToAction{
+    border-radius: 8px;
+    background: #3882F6;
+    display: flex;
+    font-family: Roboto;
+    justify-content: space-around;
+    align-items: center;
+    padding: 48px;
+    gap: 48px;
+      
+}
+
+.ctaInfo{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.ctaButton{
+    padding: 10px 20px;
+    border: 2px solid #F9FAF8;
+    font-weight: bold;
+    border-radius: 16px;
+}
+
+/* ---------------------------------------*/
