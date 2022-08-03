@@ -1,0 +1,31 @@
+/* CSS for the header*/
+/* ---------------------------------------*/
+.header{
+    display: flex;  
+    padding: 16px;
+    margin: 0px;
+    justify-content: space-around;
+    font-family: Roboto;
+    align-items: center;
+    background-color: #1F2937;
+    
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    gap: 16px;
+}
+
+li{
+    font-size: 18px;
+    font-family: Roboto;
+    color: #E5E7EB;
+}
